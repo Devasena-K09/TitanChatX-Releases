@@ -16,10 +16,10 @@ Current version: **v3.0.1**. Android only.
 3. Tap Install. If Play Protect shows a warning, choose "Install anyway" only if you got this link from us.
 
 ## Links
-- Website: https://YOUR-SITE-ADDRESS
-- Privacy Policy: https://YOUR-SITE-ADDRESS/privacy.html
-- Delete your account: https://YOUR-SITE-ADDRESS/delete-account.html
-- Contact: SUPPORT_EMAIL
+- Website: https:titanchatx.questtitan.in
+- Privacy Policy: https://titanchatx.questtitan.in/privacy.html
+- Delete your account: https://titanchatx.questtitan.in/delete-account.html
+- Contact: teamnirux@gmail.com
 
 ## Release notes
 See the [Releases](https://github.com/Devasena-K09/TitanChatX-Releases/releases) page for each version.
