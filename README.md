@@ -8,7 +8,7 @@ TitanChatX is an Android messenger with built-in games: Titan AI, end-to-end enc
 
 [**Download the latest APK**](https://github.com/Devasena-K09/TitanChatX-Releases/releases/latest/download/TitanChatX.apk)
 
-Current version: **v3.0.1**. Android only.
+Current version: **v3.11.1**. Android only.
 
 ## How to install
 1. Open this page on your Android phone and download the APK.
